@@ -1,16 +1,54 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Finance Landing Page
 
-This is a finance landing page project built with React and Vite.
+A modern, responsive landing page for financial services built with React and Vite.
 
-## Run Locally
+## Features
 
-**Prerequisites:** Node.js
+- Hero section with compelling call-to-action
+- Services overview
+- Loan calculator
+- Market section with stock ticker
+- Testimonials
+- FAQ section
+- Responsive design
 
-1. Install dependencies:
-   `npm install`
-2. Run the app:
-   `npm run dev`
+## Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS (assuming based on components)
+
+## Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Lalitmehta045/Finance-Landing-Page.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Finance-Landing-Page
+   ```
+
+3. Install dependencies:
+   ```
+   npm install
+   ```
+
+4. Run the development server:
+   ```
+   npm run dev
+   ```
+
+## Usage
+
+Open your browser and go to `http://localhost:5173` to view the landing page.
+
+## Contributing
+
+Feel free to submit issues and pull requests.
+
+## License
+
+This project is open source.
